@@ -29,7 +29,7 @@
 }
 
 /* кнопки‑дропдауны */
-:local(.dropdownWrapper) {
+.dropdownWrapper {
   position: relative;
   cursor: pointer;
 }

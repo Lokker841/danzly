@@ -1,4 +1,4 @@
-:local(.leftside) {
+.leftside {
     position: fixed;
     top: 171px;
     left: 81px;
@@ -8,15 +8,15 @@
     width: 226px;
   }
 
-  :local(aside) h2 {
+.leftside h2 {
     font-size: 24px;
   }
 
-  :local(aside) p {
+.leftside p {
     font-size: 20;
   }
 
-  :local(aside) label {
+.leftside label {
     font-size: 15;
     color: #A2ACB7;
   }

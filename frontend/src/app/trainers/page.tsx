@@ -13,7 +13,7 @@ export default function Trainers() {
           </button>
           <button className={styles.searchbtn}>найти</button>
         </div>
-        <main id={styles.trainercardsflex}>
+        <main className={styles.trainercardsflex}>
           <Trainercard />
           <Trainercard />
           <Trainercard />
