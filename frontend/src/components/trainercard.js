@@ -1,4 +1,3 @@
-import { link } from 'fs';
 import styles from './traincards.module.css';
 import Link from 'next/link';
 
